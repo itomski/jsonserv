@@ -1,5 +1,5 @@
 {
-    "data": [
+    "helden": [
         {	
             "vorname": "Peter",
             "nachname": "Parker",
@@ -20,9 +20,5 @@
             "stadt": ["Heide"],
             "alter": 102,
             "raucher": false
-        }],
-
-    "profile": {
-        "name": "typicode"
-    }
+        }]
 }
