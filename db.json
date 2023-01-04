@@ -1,6 +1,7 @@
 {
     "helden": [
         {	
+            "id": 1,
             "vorname": "Peter",
             "nachname": "Parker",
             "stadt": ["Hamburg", "New York", "Heide"],
@@ -8,6 +9,7 @@
             "raucher": false
         },
         {	
+            "id": 2,
             "vorname": "Carol",
             "nachname": "Danvers",
             "stadt": ["Boston", "New York"],
@@ -15,6 +17,7 @@
             "raucher": true
         },
         {	
+            "id": 3,
             "vorname": "Steve",
             "nachname": "Rogers",
             "stadt": ["Heide"],
