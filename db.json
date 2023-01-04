@@ -23,5 +23,10 @@
             "stadt": ["Heide"],
             "alter": 102,
             "raucher": false
-        }]
+        }],
+    "posts": [
+        {"id": 1, "titel": "Dies und das"},
+        {"id": 2, "titel": "Bla bla bla"},
+        {"id": 3, "titel": "Irgendwas"}
+    ]    
 }
